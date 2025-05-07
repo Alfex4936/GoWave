@@ -1,7 +1,5 @@
 # GoWave
 
+https://github.com/user-attachments/assets/2e9bcc73-6599-4779-a85c-79449a2aab76
 
-https://github.com/user-attachments/assets/d4c1923f-3c46-4db0-9559-043f28e6a4d1
-
-
-### ikr@kakao.com
+### 문의: ikr@kakao.com
